@@ -1,0 +1,134 @@
+[
+  {
+    "name": "exterior-wide",
+    "source": "IMG-20261007-WA0022.jpg",
+    "width": 960,
+    "height": 720
+  },
+  {
+    "name": "exterior-front",
+    "source": "IMG-20261007-WA0023.jpg",
+    "width": 960,
+    "height": 720
+  },
+  {
+    "name": "worship-windows",
+    "source": "1000681436.jpg",
+    "width": 2048,
+    "height": 1536
+  },
+  {
+    "name": "community-gathering",
+    "source": "1000681439.jpg",
+    "width": 2048,
+    "height": 1366
+  },
+  {
+    "name": "sanctuary-stage",
+    "source": "1000681437.jpg",
+    "width": 2048,
+    "height": 1536
+  },
+  {
+    "name": "worship-hall",
+    "source": "1000681435.jpg",
+    "width": 2048,
+    "height": 1536
+  },
+  {
+    "name": "community-prayer",
+    "source": "1000681438.jpg",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "name": "hall-entry-view",
+    "source": "1000681948.jpg",
+    "width": 1280,
+    "height": 853
+  },
+  {
+    "name": "pulpit-opposite-view",
+    "source": "1000681949.jpg",
+    "width": 1280,
+    "height": 853
+  },
+  {
+    "name": "pulpit-lobby-view",
+    "source": "1000681946.jpg",
+    "width": 1280,
+    "height": 853
+  },
+  {
+    "name": "lobby-pulpit-view",
+    "source": "1000681947.jpg",
+    "width": 1280,
+    "height": 853
+  },
+  {
+    "name": "doz-worship",
+    "source": "1000682213.jpg",
+    "width": 1500,
+    "height": 1000
+  },
+  {
+    "name": "ezra-gathering",
+    "source": "1000682223.jpg",
+    "width": 1600,
+    "height": 1201
+  },
+  {
+    "name": "praise-worship-team",
+    "source": "1000682226.jpg",
+    "width": 2048,
+    "height": 1536
+  },
+  {
+    "name": "champions-worship",
+    "source": "1000682212.jpg",
+    "width": 1500,
+    "height": 1000
+  },
+  {
+    "name": "champions-voices",
+    "source": "1000682211.jpg",
+    "width": 1500,
+    "height": 1000
+  },
+  {
+    "name": "champions-together",
+    "source": "1000682215.jpg",
+    "width": 1500,
+    "height": 1000
+  },
+  {
+    "name": "doz-gathering",
+    "source": "1000682214.jpg",
+    "width": 1500,
+    "height": 1000
+  },
+  {
+    "name": "sunday-school",
+    "source": "1000682222.jpg",
+    "width": 1600,
+    "height": 1201
+  },
+  {
+    "name": "ezra-outdoors",
+    "source": "1000682224.jpg",
+    "width": 1536,
+    "height": 2048
+  },
+  {
+    "name": "praise-worship-together",
+    "source": "1000682225.jpg",
+    "width": 2048,
+    "height": 1536
+  },
+  {
+    "name": "berea-leadership-group",
+    "source": "1000682227.jpg",
+    "width": 2048,
+    "height": 1536
+  }
+]
